@@ -1,4 +1,4 @@
-hello git, first add
+hello git, first add update the file(using for second commit)
 hello git, first add
 hello git, first add
 hello git, first add
