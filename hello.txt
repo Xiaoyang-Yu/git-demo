@@ -6,7 +6,7 @@ hello git, first add
 hello git, first add
 hello git, first add
 hello git, first add
-hello git, first add
+hello git, first add master test conflict
 hello git, first add
 esc - exit insertion status.
 yy  - copy the line where the cursor is located
