@@ -11,3 +11,5 @@ hello git, first add hot-fix conflict test
 esc - exit insertion status.
 yy  - copy the line where the cursor is located
 p   - paste the content on the next line.
+----------------------------------
+Writing new code on the GitHub website.
